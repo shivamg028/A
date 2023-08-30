@@ -9,7 +9,3 @@ The Weather App is a simple Python application that provides current weather inf
 - **Current Weather**: Get the current weather conditions for a specific location.
 - **Temperature**: View the temperature in Celsius or Fahrenheit.
 - **Weather Description**: Find out if it's sunny, cloudy, rainy, or snowy.
-- **Wind Speed**: Check the wind speed in meters per second (m/s).
-- **Humidity**: See the current humidity level as a percentage (%).
-- **Search by City**: Search for weather information by city name.
-- **User-Friendly Interface**: The app has a simple and intuitive user interface.
